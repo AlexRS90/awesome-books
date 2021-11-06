@@ -21,7 +21,7 @@ In this Project, We refactor the code and used JavaScript Classes instead of Mod
 
 ## Live Demo
 
-[Live Demo](https://hope1226.github.io/Awesome-books-library/)
+[Live Demo](https://alexrs90.github.io/awesome-books/)
 
 ## Authors 👤
 
